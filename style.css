@@ -1,9 +1,4 @@
 body {
-    background:repeating-linear-gradient(
-        0deg,
-        #96c1c5, 0px,
-        #96c1c5,40px,
-        #fff0de,40px,
-        #fff0de,40px,
-    );
+    margin:0;
+    background: pink;
 }
